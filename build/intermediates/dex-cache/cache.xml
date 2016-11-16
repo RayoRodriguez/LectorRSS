@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rayo\Desktop\lectorRSS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c24a4d142a651e6f1c14a6d8f85c0a150249371f">
+        <dex dex="C:\Users\Rayo\Desktop\lectorRSS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d3746e6d2765ec3e0e670d4cccd372d2fbd1f546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rayo\Desktop\lectorRSS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ccf8b0ecf1894461d19ec7ff74b044698d34ab2c">
+        <dex dex="C:\Users\Rayo\Desktop\lectorRSS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da10c82edd39fb69f87d2722dea1e9cdcbe4c4f6\classes.dex" />
+    </item>
+
+</items>

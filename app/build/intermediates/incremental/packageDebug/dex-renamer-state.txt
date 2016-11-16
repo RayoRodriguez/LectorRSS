@@ -1,0 +1,7 @@
+#Wed Nov 16 12:21:50 MST 2016
+base.0=C\:\\Users\\Rayo\\Desktop\\lectorRSS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d3746e6d2765ec3e0e670d4cccd372d2fbd1f546
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rayo\\Desktop\\lectorRSS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da10c82edd39fb69f87d2722dea1e9cdcbe4c4f6\\classes.dex
+base.1=C\:\\Users\\Rayo\\Desktop\\lectorRSS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da10c82edd39fb69f87d2722dea1e9cdcbe4c4f6
+file.0=C\:\\Users\\Rayo\\Desktop\\lectorRSS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d3746e6d2765ec3e0e670d4cccd372d2fbd1f546\\classes.dex
